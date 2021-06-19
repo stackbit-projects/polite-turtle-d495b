@@ -41,7 +41,7 @@ weight = 2
 
 [[menu.main]]
 name = "Teams"
-url = "/services/"
+url = "/Team/"
 weight = 1
 
 [[menu.main]]
