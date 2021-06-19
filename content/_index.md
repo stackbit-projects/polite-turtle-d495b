@@ -2,6 +2,7 @@
 title: Home
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
+intro_image: images/IMG_20200416_083004876.jpg
 ---
 
 # Serif - A Hugo Business Theme.
