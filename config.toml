@@ -40,7 +40,7 @@ url = "/team/"
 weight = 2
 
 [[menu.main]]
-name = "Services"
+name = "Teams"
 url = "/services/"
 weight = 1
 
